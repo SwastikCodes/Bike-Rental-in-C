@@ -7,4 +7,6 @@ FIRSTLY DON'T DELETE THE TEXT (.txt) FILE NAMED "add" BECAUSE IT CONTAINS THE RE
 
 
 
-
+//Credentials for the application//
+Username: user
+Password: pass
